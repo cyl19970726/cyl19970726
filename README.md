@@ -3,7 +3,7 @@
 
 - Now I am working for [bitlayer](https://github.com/bitlayer-org) to implemente the verifier of bf-stark on bitcoin use bitvm2 paradigm.
 
-- I am also a core contributor for [eigen-zkvm](https://github.com/0xEigenLabs/eigen-zkvm), the most interesting work I think is to complete Stark's aggregate circuit and the corresponding shell.
+- I am also a core contributor for [eigen-zkvm](https://github.com/0xEigenLabs/eigen-zkvm), the most interesting work I think is to complete [Stark's aggregate circuit and the corresponding shell](https://github.com/0xEigenLabs/eigen-zkvm/commit/a61fcf0b9b16b82eb72d6b4621ced63f0ba213ba).
 
 - For the past two years I have been working at [EthStorage](https://github.com/ethstorage), I have completed some work based on smart contract and blockchain development, including but not limited to independently implementing the development of sidechain cross-chain bridges, embedding cross-chain call modules in tendermint consensus, and participating in the development of Ethstorage's storage proof.
 
