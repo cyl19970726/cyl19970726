@@ -7,7 +7,7 @@
 
 - For the past two years I have been working at [EthStorage](https://github.com/ethstorage), I have completed some work based on smart contract and blockchain development, including but not limited to independently implementing the development of sidechain cross-chain bridges, embedding cross-chain call modules in tendermint consensus, and participating in the development of Ethstorage's storage proof.
 
-- In 2023, I also collaborated with three friends to create git3, a decentralized storage platform based on blockchain. Git3 functions similarly to Git, but it ensures that all your files are stored on a decentralized platform.
+- In 2023, I also collaborated with three friends to create [git3](https://github.com/git3protocol), a decentralized storage platform based on blockchain. Git3 functions similarly to Git, but it ensures that all your files are stored on a decentralized platform.
 
 
 
