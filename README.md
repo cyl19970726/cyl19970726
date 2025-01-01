@@ -1,7 +1,7 @@
 # 💻0xhhh
+- 2025, I will all in AI Agent.
 
-
-- Now I am working for [bitlayer](https://github.com/bitlayer-org) to implemente the verifier of bf-stark on bitcoin use bitvm2 paradigm.
+- In 2024, I worked for [bitlayer](https://github.com/bitlayer-org) to implemente the verifier of bf-stark on bitcoin use bitvm2 paradigm, you can find it from this [repo](https://github.com/bitlayer-org/tap-stark). 
 
 - I am also a core contributor for [eigen-zkvm](https://github.com/0xEigenLabs/eigen-zkvm), the most interesting work I think is to complete [Stark's aggregate circuit and the corresponding shell](https://github.com/0xEigenLabs/eigen-zkvm/commit/a61fcf0b9b16b82eb72d6b4621ced63f0ba213ba).
 
